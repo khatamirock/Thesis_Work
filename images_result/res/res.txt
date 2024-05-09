@@ -1,0 +1,59 @@
+When did you begin studying English?
+[start] তুমি ইংরাজি পড়া কবে থেকে শুরু করলে [end]
+-
+The rain continued all day.
+[start] বৃষ্টিটা সারাদিন ধরে চলেছিল। [end]
+-
+Can you please do this for me?
+[start] আপনি আমার জন্য এটা করতে পারেন [end]
+-
+Do you need to stay in Boston, too?
+[start] আপনাকেও কি বোস্টনে থাকতে হবে [end]
+-
+What's the meaning of that?
+[start] ওটার অর্থ কী [end]
+-
+How long does it take to get to the station?
+[start] স্টেশন অবধি হেঁটে যেতে কতক্ষণ লাগে [end]
+-
+I just received a message from Tom.
+[start] আমি এইমাত্র টমের কাছ থেকে একটি বার্তা পেয়েছি। [end]
+-
+What is your phone number?
+[start] তোমার ফোন নাম্বারটা কী [end]
+-
+How old is this tree?
+[start] এই গাছটা বয়স কত [end]
+-
+I've told you so a hundred times.
+[start] আমি তোমাকে এটা একশবার বলেছি। [end]
+-
+She can say whatever she wants.
+[start] ওর যা ইচ্ছে সে বলতে পারে। [end]
+-
+Would you go to Australia if you had the chance?
+[start] সুযোগ পেলে অস্ট্রেলিয়া কি যাবেন [end]
+-
+Tom has decided to keep a diary.
+[start] টম একটা ডাইরি রাখার কথা ঠিক করেছেন। [end]
+-
+I don't know what country those people are from.
+[start] আমি জানিনা আজ রাতে আসতে সময় উঠেছি। [end]
+-
+I don't want Tom to see me like this.
+[start] আমি চাই না টম আমাকে ওই অবস্থায় দেখুক। [end]
+-
+Why don't you come to my place for dinner tonight?
+[start] তুমি আজ রাতে খাবারের জন্য আমার বাসায় আসো না কেন [end]
+-
+A lot of English words are derived from Latin.
+[start] ইংরাজির অনেক শব্দ লাতিন থেকে উৎপন্ন হয়েছে। [end]
+-
+Did you keep her picture because you still love her?
+[start] আপনি কি এই জন্য তার ছবি রেখেছেন কারণ আপনি এখনও তাকে ভালোবাসেন [end]
+-
+Does Tom live in Boston?
+[start] টম কি বস্টনে থাকে [end]
+-
+I'll be back at six.
+[start] আমি ছয়টা সময়ে ফিরে আসবো। [end]

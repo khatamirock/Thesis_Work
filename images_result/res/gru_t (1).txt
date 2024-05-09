@@ -1,0 +1,357 @@
+-
+This novel is very imaginative.
+[start] এই উপন্যাসটি খুবই কল্পনাপ্রসূত। [end]
+-
+Soccer is the world's most popular sport.
+[start] ফুটবল বিশ্বের সবচেয়ে জনপ্রিয় খেলা। [end]
+-
+There's no chance of this happening again.
+[start] ভালবাসা অভাবে না যাওয়াই বেতন করলেন। [end]
+-
+Tom is a bit shorter than Mary.
+[start] টম খাবার মেরি মেরির সাথে থাকে। [end]
+-
+Tom still has a few options.
+[start] টমের এখনও কিছু বিকল্প আছে। [end]
+-
+Tom is afraid that he might get fired.
+[start] টম ভয় পাচ্ছে যে তাকে বরখাস্ত করা হতে পারে। [end]
+-
+You saw Tom, didn't you?
+[start] আপনি টমকে দেখেছিলেন তাই না [end]
+-
+Why didn't you go first?
+[start] আপনি আগে যাননি কেন [end]
+-
+What did you do with my luggage?
+[start] আপনি আমার মলপত্রটা কি করলেন [end]
+-
+I should've followed Tom's advice.
+[start] আমার টমের পরামর্শ মানা উচিৎ ছিল। [end]
+-
+What's the point in doing this?
+[start] এটা করে লাভ কি [end]
+-
+What time does the club open?
+[start] ক্লাব কটার সময় খোলে [end]
+-
+I really don't want to eat right now.
+[start] আমি এখন কিছুই খেতে চাই না। [end]
+-
+I got arrested in Australia.
+[start] আমি অস্ট্রেলিয়ায় গ্রেপ্তার হয়েছিলাম। [end]
+-
+I'm not very good at French.
+[start] আমি ফরাসিতে খুব একটা ভালো নই। [end]
+-
+Lincoln was assassinated in 1865.
+[start] এখনকার দিনে একটি স্বাধীন স্বাধীন [end]
+-
+We made pancakes for breakfast.
+[start] আমরা প্রাতঃরাশের জন্য প্যানকেক বানিয়েছিলাম। [end]
+-
+I don't know Tom personally.
+[start] আমি টমকে ব্যক্তিগতভাবে চিনি না। [end]
+-
+I have already changed my clothes.
+[start] আমার কাছে টোকিওর বিকল্প আছে। [end]
+-
+Are there many Chinese restaurants in Boston?
+[start] বস্টনে কি অনেক চিনী রেস্তোরাঁ আছে [end]
+-
+I want to buy a pineapple.
+[start] আমি একটা আনারস কিনতে চাই। [end]
+-
+I want to eat Chinese noodles.
+[start] আমি চাইনিজ নুডলস খেতে চাই। [end]
+-
+What they did was wrong.
+[start] ওনারা যা করেছেন সেটা ভুল। [end]
+-
+I need to be in Boston next Monday.
+[start] আগামী সোমবারে আমায় বোস্টনে যেতে হবে। [end]
+-
+Did you read it all?
+[start] তুমি কি পুরোটা পরেছো [end]
+-
+Tom kept silent during dinner.
+[start] টম রাতের খাবারের সময় চুপচাপ ছিলেন। [end]
+-
+Not only did he teach school, but he wrote novels.
+[start] তিনি শুধু স্কুলে পড়াননি উপন্যাসও লিখেছেন। [end]
+-
+How old is that church?
+[start] ওই চার্চটার বয়স কত [end]
+-
+I'm going to a meeting.
+[start] আমি একটা সভায় যাচ্ছি। [end]
+-
+Tom is still in bed.
+[start] টম এখনো বিছানায়। [end]
+-
+My stomach hurts after meals.
+[start] আমার দাদা আমার এসে হারিয়ে ফেলেছি। [end]
+-
+He spent the evening reading a book.
+[start] ও সন্ধ্যেবেলা বই পড়ে কাটায়। [end]
+-
+How many times do I have to apologize?
+[start] আমাকে কতবার ক্ষমা চাইতে হবে [end]
+-
+We'll just have to ask Tom to do it for us, won't we?
+[start] এটা ভালভাবে শেষ না হওয়া আমরা শিখতে [end]
+-
+Tom was killed in an accident.
+[start] টম একটা দুর্ঘটনায় মারা গেছে। [end]
+-
+The wall has been painted yellow.
+[start] দেয়ালে হলুদ রং করা হয়েছে। [end]
+-
+"Why aren't you going?" "Because I don't want to."
+[start] তুমি যাচ্ছো না কেন কারন আমি যেতে চাই না। [end]
+-
+Talking is one thing, doing is another.
+[start] বলা আর করার মধ্যে পার্থক্য আছে। [end]
+-
+I am in the house.
+[start] আমি বাড়িতে আছি। [end]
+-
+His dog follows him wherever he goes.
+[start] উনি যেখানে যেখানে যেতেন ওনার কুকুর ওনার পেছনে পেছনে যেত। [end]
+-
+She explained the literal meaning of the phrase.
+[start] তিনি বাক্যাংশটির আক্ষরিক অর্থ ব্যাখ্যা করে দিলেন। [end]
+-
+I'm pretty sure that Tom has never been a patient of mine.
+[start] আমি নিশ্চিত যে টম কখনই আমার রোগী ছিল না। [end]
+-
+Tom was such a happy person.
+[start] টম কত সুখি মানুষ ছিল। [end]
+-
+English is not my native language.
+[start] ইংরাজি আমার মাতৃভাষা নয়। [end]
+-
+You're not listening to me.
+[start] তুমি আমার কথা শুনছ না। [end]
+-
+How did you come to know her?
+[start] তুমি ওকে চিনলে কি কোরে [end]
+-
+Tom is still in prison.
+[start] টম এখনো গারদে। [end]
+-
+Tom started singing a song.
+[start] টম একটা গান গাইতে শুরু করলো। [end]
+-
+The building was heavily damaged by fire.
+[start] আগুনে ভবনটির ব্যাপক ক্ষতি হয়েছে। [end]
+-
+How much will you pay me?
+[start] আপনি আমাকে কত টাকা দেবেন [end]
+-
+Today is the hottest day this year.
+[start] আজ বছরের সব থেকে গরম দিন। [end]
+-
+Tom's father is a musician.
+[start] টমের বাবা একজন সুরকার। [end]
+-
+I'll do that work by myself.
+[start] আমি নিজেই সেই কাজ করব। [end]
+-
+I've seen your driver's license.
+[start] আমি আপনার ড্রাইভিং লাইসেন্স দেখেছি। [end]
+-
+What he said is not true.
+[start] উনি যা বললেন তা সত্যি নয়। [end]
+-
+I'll be back by six.
+[start] আমি সাড়ে দুইটা ফিরে আসবো। [end]
+-
+Can you please do this for me?
+[start] আপনি আমার জন্য এটা করতে পারেন [end]
+-
+I need to send a fax.
+[start] আমার একটা ফ্যাক্স পাঠানোর দরকার আছে। [end]
+-
+I have a pain in my chest.
+[start] আমার বুকে ব্যথা হচ্ছে। [end]
+-
+All that glitters isn't gold.
+[start] চকচক করলেই সোনা হয় না। [end]
+-
+She's asking how that's possible.
+[start] ও জিজ্ঞাসা করছে এটা কি করে সম্ভব। [end]
+-
+Thank you very much, doctor.
+[start] অনেক অনেক ধন্যবাদ ডাক্তারবাবু। [end]
+-
+Tom is thinking of going to Boston next spring.
+[start] টম পরের বসন্তে বস্টন যাওয়ার কথা ভাবছে। [end]
+-
+I am staying at the hotel for the time being.
+[start] আপাতত আমি একটা হোটেলে রয়েছি। [end]
+-
+I don't like you anymore.
+[start] আমার আর আপনাকে ভালো লাগে না। [end]
+-
+I only speak a little French.
+[start] আমি খালি একটু ফরাসি ভাষায় কথা বলি। [end]
+-
+Let's give it a try.
+[start] আমরা একবার চেষ্টা করেই দেখি [end]
+-
+He loses his temper easily.
+[start] ও সহজেই ওর মাথা গরম করে ফেলে। [end]
+-
+Do you mind my sitting next to you?
+[start] আমি তোমার পাশে বসলে কিছু মনে করবে [end]
+-
+Some minerals are important for human health.
+[start] কিছু খনিজ মানব স্বাস্থ্যের জন্য গুরুত্বপূর্ণ। [end]
+-
+Canada is larger than Japan.
+[start] কানাডা জাপানের চেয়ে বড়। [end]
+-
+Are you certain that you locked the door?
+[start] দরজায় তালা লাগানোর ব্যাপারে তুমি কি নিশ্চিত [end]
+-
+Soccer is the world's most popular sport.
+[start] ফুটবল বিশ্বের সবচেয়ে জনপ্রিয় খেলা। [end]
+-
+This book is easy for me to read.
+[start] এই বইটি পড়া আমার জন্য সহজ। [end]
+-
+Do you have any plans right now?
+[start] আপনার কি ওয়াশিং মেশিন খেতে পারি [end]
+-
+The two countries negotiated a treaty.
+[start] দেশ দুটি নিজেদের মধ্যে একটি চুক্তি সম্পাদিত করলো। [end]
+-
+Well, the night is quite long, isn't it?
+[start] রাতটা খুব বড়ো তাই না [end]
+-
+I'm sitting alone in my house.
+[start] আমি পদার্থবিজ্ঞানে আমার প্রাক্তন টমের রেখে আছি। [end]
+-
+She didn't tell me her name.
+[start] উনি আমাকে ওনার নাম বলেননি। [end]
+-
+This book is also available in French.
+[start] এই বইটা ফরাসিতেও পাওয়া যায়। [end]
+-
+How old is this tree?
+[start] এই গাছটা বয়স কত [end]
+-
+He's sleeping like a baby.
+[start] তিনি বাচ্চাদের মত ঘুমাচ্ছেন। [end]
+-
+Tom doesn't want to see you.
+[start] টম তোমার সঙ্গে দেখা করতে চায় না। [end]
+-
+I thought that you were Canadian.
+[start] আমি ভেবেছিলাম আপনি কানাডীয়। [end]
+-
+They wanted to steal the car.
+[start] তারা গাড়িটা চুরি করতে চাইলো। [end]
+-
+thirty this morning.
+[start] এটা সত্য। [end]
+-
+Would you like to come inside?
+[start] তুমি কি ভেতরে আসবে [end]
+-
+I don't want to see your faces.
+[start] আমি তোমাদের মুখ দেখতে চাই না। [end]
+-
+I don't want to talk about it now.
+[start] আমি এখন এটা নিয়ে কথা বলতে চাই না। [end]
+-
+How old is this church?
+[start] এই চার্চটার বয়স কত [end]
+-
+Tom has already been there.
+[start] টম ইতিমধ্যে সেখানে গিয়েছে। [end]
+-
+January, February, March, April, May, June, July, August, September, October, November and December are the twelve months of the year.
+[start] বছরের বারোটা মাস হলো জানুয়ারি ফেব্রুয়ারি মার্চ এপ্রিল মে জুন জুলাই আগস্ট সেপ্টেম্বর অক্টোবর নভেম্বর আর ডিসেম্বর। [end]
+-
+I think you both know Tom.
+[start] আমার মনে হয় তোমরা দুজনেই টমকে চেনো। [end]
+-
+I don't know where you want to go.
+[start] আমি জানিনা তুমি কোথায় যেতে চাও। [end]
+-
+She folded her handkerchief neatly.
+[start] ও ওর রুমালটা পরিপাটি করে ভাঁজ করলো। [end]
+-
+I can't believe that Tom really said no to me.
+[start] আমি বিশ্বাসই করতে পারছি না যে সত্যিই আমাকে না বলেছে। [end]
+-
+I want to buy a pineapple.
+[start] আমি একটা আনারস কিনতে চাই। [end]
+-
+I'll call them tomorrow when I come back.
+[start] আমি কাল যখন ফিরবো ওনাদেরকে একবার কল করবো। [end]
+-
+Napoleon Bonaparte was born in Corsica.
+[start] এই রিপোর্ট একটি সালে ক্ষমতা পরেছিল। [end]
+-
+I don't want you doing that.
+[start] আমি চাই না তুমি এটা করো। [end]
+-
+This river flows into the Pacific Ocean.
+[start] এই নদীটি প্রশান্ত মহাসাগরে গিয়ে পড়ে। [end]
+-
+I'm sorry, but it's impossible.
+[start] আমায় ক্ষমা করবেন কিন্তু এটা সম্ভব নয়। [end]
+-
+Would you like to come shopping with me?
+[start] আপনি কি আমার সাথে কেনাকাটা করতে যেতে যাবেন [end]
+-
+Tom probably won't attend the conference.
+[start] টম সম্ভবত সম্মেলনে যোগ দেবে না। [end]
+-
+I suddenly feel very much alone.
+[start] আমার এখনই খুব একলা লাগছে। [end]
+-
+I think that Tom won't do it again.
+[start] আমি মনে করি টম এটা আর করবে না। [end]
+-
+I believe you both know Tom.
+[start] আমার মনে হয় তোমরা দুজনেই টমকে চেনো। [end]
+-
+How many nights will you stay?
+[start] তুমি কত রাত্রি থাকবে [end]
+-
+Keep Tom away from me.
+[start] টমকে আমার থেকে দূরে রাখুন। [end]
+-
+I got up at seven this morning.
+[start] আমি আজ সকাল ছটা তিরিশে উঠেছি। [end]
+-
+At first, I couldn't make out what he was saying.
+[start] প্রথমে আমি বুঝতেই পারিনি উনি কি বলছেন। [end]
+-
+There is no way I'm letting you do this alone.
+[start] আমি কোনমতেই এটা তোমাকে একলা করতে দেবো না। [end]
+-
+The station is two miles away.
+[start] স্টেশনটা দু মাইল দূরে। [end]
+-
+This pen doesn't write well.
+[start] এই কলমটা ভালো মতন লিখে না। [end]
+-
+He doesn't care much for baseball.
+[start] তিনি বেসবলকে খুব একটা পাত্তা দেন না। [end]
+-
+I would have liked to come with you, but I didn't have time.
+[start] আমি তোমার সাথে যেতে পারতাম কিন্তু আমার সময় ছিল না। [end]
+-
+I swear I've never hurt Tom.
+[start] আমি শপথ করে বলছি আমি কখনই টমকে আঘাত করিনি। [end]
+-
+What do you think I've been doing?
+[start] আপনার কি মনে হয় আমি কি করছিলাম [end]
+-
+There was an earthquake yesterday.
+[start] দেখার মতো আপনার ব্যাগ। [end]

@@ -1,0 +1,603 @@
+input: অসলো নরওয়ের রাজধানী।
+output: Oslo is the capital of Norway.
+
+input: টম কাশতে শুরু করলো।
+output: Tom started to cry.
+
+input: আমি এটা আশা করছিলাম না।
+output: I wasn't expecting it.
+
+input: কোনো অসুবিধা নেই।
+output: It's all right.
+
+input: টম চায় আমি তার সঙ্গে যাই।
+output: Tom wants me to go with him.
+
+input: এ আমার থেকে ছোট।
+output: He's younger than me.
+
+input: কেন নয়?
+output: Why not?
+
+input: দয়া করে পুলিশকে কল করুন।
+output: Please call the police.
+
+input: টম মারা গেছে।
+output: Tom's dead.
+
+input: আমি অস্ট্রেলিয়ায় বড় হয়েছি।
+output: I grew up in Australia.
+
+input: টম দেখতে জম্বির মতো লাগছিলো।
+output: Tom looked like an idiot.
+
+input: ইউক্রেনের রাজধানী হলো কিয়েভ।
+output: Kyiv, Ukraine's capital.
+
+input: আগামীকাল সকাল সকাল আমায় ঘুম থেকে ডেকে তুলবেন।
+output: You'll wake me up tomorrow morning.
+
+input: টম সিদ্ধান্ত নিয়েছে যে সে তাড়াতাড়ি আসবে।
+output: Tom has decided to come soon.
+
+input: আমি চেষ্টা করেছি।
+output: I tried.
+
+input: কথা বোল না।
+output: Don't talk.
+
+input: সবাই বাইরে দৌড়ে গেলেন।
+output: They all ran out.
+
+input: আমি ওনাকে গাড়ি ধুতে দেখলাম।
+output: I saw him wash the car.
+
+input: এটা অনেক বেশি গুরুত্বপূর্ণ।
+output: It's too important.
+
+input: টম ইতিহাস এবং জীববিজ্ঞান পড়ায়।
+output: To learn history and biochemistry, Tom.
+
+input: আপনি ভুল রাস্তায় যাচ্ছেন।
+output: You're going the wrong way.
+
+input: আস্তে গাড়ি চালান।
+output: Take a slow drive.
+
+input: আমরা এখানে আটকে গেছি।
+output: We're stuck here.
+
+input: ভেতরে কী ছিলো?
+output: What was inside?
+
+input: কতক্ষণ ধরে টম এই কাজ করছে বলে আপনি মনে করেন?
+output: How long do you think Tom's been doing this?
+
+input: টম বলেছে মেরি একজন ভালো মা।
+output: Tom says Mary is a good mother.
+
+input: এখানে সাঁতার কাটা কি নিরাপদ?
+output: Is it safe to swim here?
+
+input: আমার পেট ব্যাথা করছে।
+output: My stomach hurts.
+
+input: এই অ্যালবামে কয়টি ছবি আছে?
+output: How many images are there in this album?
+
+input: টম সারাদিন চুপচাপ ছিলেন।
+output: Tom was quiet all day.
+
+input: টম খুব কমই ওনার কথা রাখেন।
+output: Tom rarely keeps his word.
+
+input: এটা পুরোপুরিই টমের দোষ ছিলো।
+output: It was all Tom's fault.
+
+input: আমি একটা সোয়েটার খুঁজছি।
+output: I'm looking for a sweater.
+
+input: আমরা এখানে থাকি।
+output: We live here.
+
+input: টম এখানে কাজ করতো।
+output: Tom worked here.
+
+input: টম গীটার বাজাতো।
+output: Tom played the ringer.
+
+input: আসুন শুধু কথা বলি।
+output: Let's just talk.
+
+input: আপনার সন্তানদের সাথে নিয়ে আসুন।
+output: Bring your children.
+
+input: আপনার আমার মধ্যে একটা পার্থক্য আছে।
+output: I have a difference between you and me.
+
+input: জাদুঘর এখন বন্ধ আছে।
+output: The museum is closed.
+
+input: আমার তেষ্টা পেয়েছে।
+output: I've got a reward.
+
+input: সেটা আমার জীবনের সব থেকে ভালো দিন ছিল।
+output: That was the best day of my life.
+
+input: আমি কাজে যাবো কীভাবে?
+output: How do I get to work?
+
+input: আমি একজন তারকা ছিলাম।
+output: I was a star.
+
+input: টমের কথা ভুলে যান।
+output: Forget Tom.
+
+input: অ্যাক্টিনিয়াম একটি তেজস্ক্রিয় মৌল।
+output: Actinium is a radiation earth.
+
+input: ভুত আছে।
+output: There's a ghost.
+
+input: বেলুনটা ফেটে যাবে।
+output: The balloon will explode.
+
+input: আমার মনে হয় আপনি আমার সীটে বসে আছেন।
+output: I think you're sitting in my seat.
+
+input: আমি টমের সাথে যেতে চাই না।
+output: I don't want to go with Tom.
+
+input: সে ইটালিয়ান খাবার পছন্দ করে।
+output: He likes Italian food.
+
+input: সব ঠিক আছে।
+output: It's okay.
+
+input: সেটা টম।
+output: That's Tom.
+
+input: বাকি সবাই হাসলো।
+output: The rest of them laughed.
+
+input: টমের দিকে তাকাও।
+output: Look at Tom.
+
+input: আমি হাঁটু ভাজ না করে হাতের পাতা মাটিতে রাখতে পারি।
+output: I can put my knee on the ground without bleeding.
+
+input: আমি ওকে পছন্দ করি।
+output: I like him.
+
+input: এটাই এখন আমাদের দরকার।
+output: That's what we need now.
+
+input: সবাই এখানে আছেন।
+output: Everyone's here.
+
+input: সে এমনভাবে কথা বলে যেন সে সব জানে।
+output: He talks like he knows everything.
+
+input: তাঁরা চেঁচালেন।
+output: They shouted.
+
+input: জাপান বিস্ময়ে ভরা!
+output: Japan is full of surprises!
+
+input: আমি গণিত এবং পদার্থবিদ্যা পড়াই।
+output: I read math and physics.
+
+input: আমি পিয়ানো বাজাতে পারি না।
+output: I can't play the piano.
+
+input: শারীরিক স্বাস্থ্যের মতো মানসিক স্বাস্থ্যও গুরুত্বপূর্ণ।
+output: The mental health is as important as physical health.
+
+input: হয়তো তিনি একজন ভালো শিক্ষক হবেন।
+output: Maybe he would be a good teacher.
+
+input: এটা কাজ করে না?
+output: It doesn't work?
+
+input: টম বেসবল খেলায় সত্যিই ভালো।
+output: Tom's really good at baseball.
+
+input: তুমি জিতলে।
+output: You win.
+
+input: তিনি ফল খাচ্চেন।
+output: He's the fruit man.
+
+input: ১৯৩৯ সালে দ্বিতীয় বিশ্বযুদ্ধ শুরু হয়।
+output: World War II began in 1939.
+
+input: টমের নতুন গাড়ির ছবি এটা।
+output: This is Tom's new car.
+
+input: তার জন্মদিন ভুলে যাওয়ার জন্য সে কি আমায় ক্ষমা করবে?
+output: Will he forgive me for forgetting his birthday?
+
+input: তোমার কি সাইকেল নেই?
+output: Don't you have a bike?
+
+input: আপনি কি টমকে খুন করেছেন?
+output: Did you kill Tom?
+
+input: টম সোমবার গ্রেফতার হয়েছে।
+output: Tom's been arrested on Monday.
+
+input: তাহলে?
+output: So what?
+
+input: টম কি ভৌতিক সিনেমা দেখতে পছন্দ করে?
+output: Does Tom like to watch material movies?
+
+input: আমাদের কাছে সেই তথ্য নেই।
+output: We don't have that information.
+
+input: আপনারা কি এখন খেতে চান না পরে?
+output: Don't you want to eat now?
+
+input: আমাকে ছয় ঘণ্টা অন্তর অন্তর ওষুধ খেতে হয়।
+output: I have to get a six-hour hearted medicine.
+
+input: গতকাল আমি আমার চায়ে মধু দিয়েছিলাম।
+output: I gave honey to my tea yesterday.
+
+input: বাইরে অপেক্ষা করো।
+output: Wait outside.
+
+input: ও এখন লাঞ্চ করছে।
+output: He's having lunch now.
+
+input: আমি ওটা করেছি, তাই না?
+output: I did it, didn't I?
+
+input: আমাকে তলোয়ারটা দাও।
+output: Give me the sword.
+
+input: এটা কি তোমার গাড়ি?
+output: Is this your car?
+
+input: টম স্পষ্টতই ঝামেলায় পরেছে।
+output: Tom's clearly in trouble.
+
+input: এই ধরনের ভুলগুলো খুব সহজেই উপেক্ষা করা হয়।
+output: Such mistakes are easily ignored.
+
+input: টম ওটা দেখেছে।
+output: Tom saw it.
+
+input: হাসপাতালটা আশেপাশেই আছে।
+output: The hospital is around.
+
+input: আমরা হয়তো আগামী মাসে টমকে দেখতে অস্ট্রেলিয়া যেতে পারি।
+output: We may go to Australia next month.
+
+input: টম অস্ট্রেলিয়ার একজন ডাক্তার।
+output: Tom, a doctor in Australia.
+
+input: টম যুদ্ধের সিনেমা দেখে না।
+output: Tom doesn't watch war movies.
+
+input: ওনার এক তিক্ত অভিজ্ঞতা হয়েছিলো।
+output: He had a bitter experience.
+
+input: এটা ঠিক যেন এক হাত পিছোনে বেঁধে কারুর সাথে লড়াই করার মতো ব্যপার।
+output: It's just like putting one arm in one hand and fighting someone.
+
+input: টম সারা রাত্রি কাশছিলো।
+output: Tom was crying all night.
+
+input: বাঘ কি পাখি খায়?
+output: What's a tiger eating?
+
+input: যে কোনো ছাত্রই ওই প্রশ্নের উত্তর দিতে পারে।
+output: Any student can answer that question.
+
+input: আপনি জানেন এই শব্দটির উচ্চারণ কিভাবে করতে হয়?
+output: Do you know how to pronounce this word?
+
+input: আপনি কি জানতেন টম কী করছিল?
+output: Did you know what Tom was doing?
+
+input: টম অক্টোবরে পদত্যাগ করেছে।
+output: Tom resigned in October.
+
+input: আমার একটা চুক্তি আছে।
+output: I have a deal.
+
+input: আমার জ্যোতিষ ভালো লাগে।
+output: I like the light.
+
+input: আমি কাঁদতে চাই।
+output: I want to cry.
+
+input: টম এখনো গারদে।
+output: Tom's still in Garde.
+
+input: আপনি সাধারণত কটার সময় শুতে যান?
+output: You usually go to bed at what time?
+
+input: তুমি চেঁচাচ্ছো কেন?
+output: Why are you shouting?
+
+input: আমি এখনো তোমাদের বন্ধু আছি।
+output: I'm still your friend.
+
+input: পরনিন্দা পরচর্চা করা বন্ধ করো।
+output: Stop wearing it.
+
+input: টম বারে দাঁড়িয়ে বিয়ার খাচ্ছিল।
+output: Tom was standing at the bar and drinking beer.
+
+input: আমি নিশ্চই আমার চাবিটা রাস্তায় হারিয়ে ফেলেছি।
+output: I must have lost my key on the road.
+
+input: উনি জাপানি বলতে পারেন।
+output: He can speak Japanese.
+
+input: কে আমার সাথে কথা বলতে চায়?
+output: Who wants to talk to me?
+
+input: টম রাতের খাবারের সময় চুপচাপ ছিল।
+output: Tom was quiet at dinner.
+
+input: আমি হেঁটে যাব।
+output: I'll walk.
+
+input: টাকায় টাকা আনে।
+output: Money.
+
+input: কে কথা বলছে?
+output: Who's talking?
+
+input: আমরা এটা জানতে চাই।
+output: We want to know this.
+
+input: আপনি কি ডাক্তার?
+output: Are you a doctor?
+
+input: আমি নিশ্চিত যে টম কখনই আমার রোগী ছিল না।
+output: I'm sure Tom was never a patient.
+
+input: আমি পদার্থবিজ্ঞানের অধ্যাপক ছিলাম।
+output: I was a professor of physics.
+
+input: টমের আরেকটি সম্ভাবনার কথা মনে পড়ল।
+output: I remembered another possibility of Tom.
+
+input: টম চিৎকার করতে আরম্ভ করলো।
+output: Tom started screaming.
+
+input: সবাই সেটা দেখেছিলো।
+output: Everyone saw it.
+
+input: আমি জানি এটা ভুল।
+output: I know it's wrong.
+
+input: টম ওর মুখ উঁচু রাখার চেষ্টা করেছিল।
+output: Tom tried to raise his mouth.
+
+input: আমার প্রিয় বিষয় হলো জীববিজ্ঞান।
+output: My favorite thing is biological.
+
+input: ইনি এই বিষয় কথা বলতে চান না।
+output: He doesn't want to talk about it.
+
+input: ইউরেনিয়ামের পারমাণবিক সংখ্যা ৯২।
+output: Atomic numbers 92.
+
+input: মানুষকে সুস্থ করে তোলা হয়, কিন্তু যন্ত্রকে মেরামত কতা হয়।
+output: People were cured, but the machine was repaired.
+
+input: অনুগ্রহ করে পুরো গল্পটি পড়ুন।
+output: Please read the whole story.
+
+input: আপনার বই ডেস্কের উপর রয়েছে।
+output: Your book's on the desk.
+
+input: এতে আমি অবাক হইনি।
+output: I was not surprised.
+
+input: আপনার কি সাইকেল নেই?
+output: Don't you have a bike?
+
+input: টম মেরিকে বলেছিল যে তাকে এটি করতেই হবে।
+output: Tom told Mary that she had to do this.
+
+input: আমি তোমার ফোন নাম্বারটা ভুলে যাই।
+output: I forgot your phone number.
+
+input: টম আমাকে বললো যে সে বস্টন যেতে চায়।
+output: Tom told me he wanted to go to Boston.
+
+input: দরজা খুলো না।
+output: Don't open the door.
+
+input: ওখানেই থাকুন।
+output: Stay there.
+
+input: তুমি প্রিতিদিন কত ঘন্টা করে ফরাসি শেখো?
+output: How many hours did you learn French?
+
+input: তোমার উত্তর ভুল।
+output: Your answer is wrong.
+
+input: টম এখনও তার মায়ের সাথে থাকে।
+output: Tom still lives with his mother.
+
+input: আমি টমকে বলেছিলাম যে আমি আর এটা করব না।
+output: I told Tom I wouldn't do this anymore.
+
+input: তোমার ওকে পরামর্শের জন্য জিজ্ঞাসা করা উচিৎ।
+output: You should ask him for advice.
+
+input: আমি আপনাকে কিছু জিজ্ঞাসা করতে চেয়েছিলাম।
+output: I wanted to ask you something.
+
+input: টম আহত হয়েছে।
+output: Tom's hurt.
+
+input: আমি তার ফোন নাম্বারটা ভুলে গেছি।
+output: I forgot his phone number.
+
+input: টম কষ্ট করেনি।
+output: Tom didn't hurt.
+
+input: বাঁচাও!
+output: Help!
+
+input: টম নিশ্বাস ছাড়লো।
+output: Tom gave up his breath.
+
+input: আমি একটি বই লিখতে চাই।
+output: I want to write a book.
+
+input: আপনারা খুব সাহসী।
+output: You're very brave.
+
+input: আমি দিনের বেশিরভাগ সময় বাড়িতেই থাকি।
+output: I live most of my time at home.
+
+input: ছাদের সমস্যা আছে।
+output: There's a roof problem.
+
+input: টমের অন্ত্যেষ্টিক্রিয়াতে অনেকে অংশগ্রহণ করেছিল।
+output: Many people participated in Tom's funeral.
+
+input: কে ছিলো?
+output: Who was it?
+
+input: আপনার উত্তর ভুল।
+output: Your answer is wrong.
+
+input: আপনার তাঁকে পরামর্শের জন্য জিজ্ঞাসা করা উচিৎ।
+output: You should ask him for advice.
+
+input: টম লড়াইটা শুরু করেছে।
+output: Tom's been fighting.
+
+input: আমি ভেবেছিলাম আপনি কানাডীয়।
+output: I thought you were Canadian.
+
+input: আমি শারীরিকভাবে প্রস্তুত ছিলাম।
+output: I was physically prepared.
+
+input: পরিষ্কার করে বলো।
+output: Clean it up.
+
+input: টম কোথা থেকে ফোন করেছিল?
+output: Where did Tom call from?
+
+input: টম ওখানে থাকে।
+output: Tom lives there.
+
+input: আপনি কি আপনার উপন্যাস লেখা শেষ করেছেন?
+output: Have you finished writing your novel?
+
+input: বাড়িতেই থাকুন।
+output: Stay at home.
+
+input: আপনি কি করে এতো শান্ত থাকতে পারেন?
+output: How can you be so quiet?
+
+input: শীঘ্রই এই উপন্যাসটি পড়া শেষ করব।
+output: We'll finish this novel.
+
+input: এর দাম কত?
+output: How much is that?
+
+input: আমার কী বলার ছিল?
+output: What did I have to say?
+
+input: আপনারা যত ইচ্ছে তত খেতে পারেন।
+output: You can eat more than you want.
+
+input: একসাথে রাতের খাবার খেলে কেমন হয়?
+output: How about dinner together?
+
+input: টম যখন তেরো বছরের ছিলো তখন বস্টনে এসেছিলো.
+output: Tom came to Boston when he was Tero.
+
+input: তোমার জন্য আমি কী করতে পারি?
+output: What can I do for you?
+
+input: আমি কখনই কাউকে বলবো না।
+output: I'll never tell anyone.
+
+input: আমাকে বলুন।
+output: Tell me.
+
+input: জলবায়ু পরিবর্তন হচ্ছে।
+output: Climate change.
+
+input: আমাকে বেথা দেবেন না।
+output: Don't let me down.
+
+input: আপনার দুধটা খেয়ে নিন।
+output: Eat your milk.
+
+input: তুমি কখনো সেটা করেছো?
+output: Have you ever done that?
+
+input: আমি কি এখানে ছবি তুলতে পারি?
+output: Can I take photos here?
+
+input: আমরা আটকে পরেছি।
+output: We're stuck.
+
+input: উনি বক্তৃতা দিচ্ছিলেন।
+output: He was giving a speech.
+
+input: ওনার যা ইচ্ছে উনি বলতে পারেন।
+output: He can say anything he wants.
+
+input: তাড়াতাড়ি কর।
+output: Hurry up.
+
+input: আমি পরিষ্কার।
+output: I'm clean.
+
+input: এই পরিকল্পনা বাস্তবায়নে অনেক টাকা খরচ হবে।
+output: This plan will cost a lot of money to implement.
+
+input: আপনি সত্যিই কোনো কাজের নয়।
+output: You're really no use.
+
+input: রোম একদিনে গড়ে ওঠেনি।
+output: Rome wasn't built in one day.
+
+input: ওইগুলো একটু বেশি বড়ো।
+output: They're a little bigger.
+
+input: আমি এটা একা করতে পারি।
+output: I can do it alone.
+
+input: আমি তোমার কথা বুঝতে পারছি না।
+output: I don't understand you.
+
+input: তুমি কি আদৌ সাতার কাটতে পারো?
+output: Can you swim at all?
+
+input: এই বিষয় আপনার কি মত?
+output: What's this about you?
+
+input: জাপান ক্যালিফোর্নিয়া থেকে কমলা আমদানি করে।
+output: Japan imports oranges from California.
+
+input: আমার ডায়াবেটিস আছে।
+output: I have diabetes.
+
+input: তারা জিতলো।
+output: They won.
+
+input: আমরা কি একান্তে কথা বলতে পারি?
+output: Can we talk in private?
+
+input: আমি চাই তুমি টমের সঙ্গে কাজ করো।
+output: I want you to work with Tom.
+
+input: আমাদের সাহায্য করো।
+output: Help us.
+

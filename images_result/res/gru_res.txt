@@ -1,0 +1,800 @@
+-
+Tom knew I was irritated.
+[start] টম এবং আমার কথা রাখে। [end]
+
+-
+Rabbits like to eat carrots.
+[start] খরগোশ গাজর খেতে পছন্দ করে। [end]
+
+-
+My foot hurts.
+[start] আমার কোমর ব্যাথা করছে। [end]
+
+-
+Don't call me.
+[start] আমাকে কোন অংশে কম মনে কোরো না। [end]
+
+-
+Can you keep an eye on Tom?
+[start] তুমি কি টমের উপর নজর রাখতে পারবে [end]
+
+-
+I'm bleeding.
+[start] আমি ভিজে গেছি। [end]
+
+-
+Why are you yelling?
+[start] তোমরা চেঁচাচ্ছো কেন [end]
+
+-
+Please correct my pronunciation.
+[start] এটা আমার কুকুর। [end]
+
+-
+I've got asthma.
+[start] আমার অ্যাজমা আছে। [end]
+
+-
+You can stay as long as you like.
+[start] আপনি যতক্ষণ ইচ্ছে থাকতে পারেন। [end]
+
+-
+Where can I wash my hands?
+[start] আমি আমার মালপত্র কোথা থেকে দাবি করব [end]
+
+-
+Why not go to the movies?
+[start] এটা প্রথমবার না। [end]
+
+-
+That is mine.
+[start] ওটা আমার। [end]
+
+-
+What does that word mean?
+[start] ওই শব্দটার মানে কী [end]
+
+-
+What time does the dining room open?
+[start] এই অ্যালবামে কয়টি ছবি [end]
+
+-
+You may use my new car.
+[start] আপনি আমার নতুন গাড়িটা ব্যবহার করতে পারেন। [end]
+
+-
+They all screamed.
+[start] তারা সবাই চেঁচালো। [end]
+
+-
+Motorists are advised to drive with caution.
+[start] মানুষকে সুস্থ করে তোলা হয় কিন্তু যন্ত্রকে মেরামত কতা হয়। [end]
+
+-
+She's younger than me.
+[start] এ আমার থেকে ছোট। [end]
+
+-
+I hear footsteps outside.
+[start] আমি বাইরে পায়ের শব্দ পাচ্ছি। [end]
+
+-
+What do you usually do on Sundays?
+[start] আপনি সাধারণত কোন সময়ে সকালের নাস্তা করেন [end]
+
+-
+My father works for a bank.
+[start] আমার বাবা ব্যাংকে চাকরি করেন। [end]
+
+-
+We're at war.
+[start] আমরা দুজনেই আছি। [end]
+
+-
+We're really busy now.
+[start] আমরা এখন সত্যিই ব্যস্ত। [end]
+
+-
+Turn right.
+[start] ডানদিকে ঘুরুন। [end]
+
+-
+Tom kept coughing.
+[start] টম বাইরে ছিলো। [end]
+
+-
+I don't know if I'll have time to do it.
+[start] আমি জানিনা এটা করার জন্য সময় পাব কি না। [end]
+
+-
+Four hundred million people speak English as their first language.
+[start] চল্লিশ কোটি মানুষ তাদের প্রথম ভাষা হিসাবে ইংরেজী বলে। [end]
+
+-
+How could you leave a four-year-old child all alone?
+[start] তুমি কি করে একটা চার বছর বয়সের বাচ্চাকে একলা ফেলে রেখে যেতে পারো [end]
+
+-
+She can speak French.
+[start] তিনি ফরাসিতে কথা বলতে পারেন। [end]
+
+-
+May I have a glass of water?
+[start] আমি কি এক গ্লাস পানি পেতে পারি [end]
+
+-
+My jaw hurts.
+[start] আমার মারি ব্যাথা করছে। [end]
+
+-
+I saw him wash the car.
+[start] আমি ওকে গাড়ি ধুতে দেখলাম। [end]
+
+-
+I have a headache.
+[start] আমার মাথা ব্যাথা হয়েছে। [end]
+
+-
+Tom was killed in an accident.
+[start] টম একটা দুর্ঘটনায় মারা গেছে। [end]
+
+-
+Is anybody there?
+[start] ওখানে কি কেউ আছেন [end]
+
+-
+We need to find a solution soon.
+[start] আমাদের আরও অনেক কিছু করার আছে। [end]
+
+-
+How long have you been living in Boston?
+[start] আপনি বস্টনে কত বছর ধরে আছেন [end]
+
+-
+Tom knew.
+[start] টম হাই তুললো। [end]
+
+-
+Tom is very ill.
+[start] টম আমাকে ছেড়ে চলে গেছে। [end]
+
+-
+Stop!
+[start] থামুন [end]
+
+-
+I'd like you to call me Tom.
+[start] আমার ইচ্ছা যে তুমি টমকে ডাকো। [end]
+
+-
+How long have you lived in Boston?
+[start] আপনি বস্টনে কত বছর ছিলেন [end]
+
+-
+I eat everything.
+[start] আমি সবকিছুই খাই। [end]
+
+-
+Who's speaking?
+[start] কে কথা বলছেন [end]
+
+-
+Don't leave me alone.
+[start] আমাকে একলা ছেড়ে যেও না। [end]
+
+-
+Are we prepared?
+[start] আমরা কি প্রস্তুত [end]
+
+-
+Tom was crying like a baby.
+[start] টম বাচ্চার মত কাঁদছিলো। [end]
+
+-
+I know that we still love each other.
+[start] আমি জানি আমরা একে অপরকে এখনো ভালোবাসি। [end]
+
+-
+Have fun.
+[start] আনন্দ করুন। [end]
+
+-
+I warned you not to come here.
+[start] আমি আপনাকে এখানে আসার ব্যাপারে সতর্ক করেছিলাম। [end]
+
+-
+Here is my phone number.
+[start] এই হলো আমার ফোন নাম্বার। [end]
+
+-
+He is a very sincere person.
+[start] ও একজন গুরুত্বপূর্ণ ব্যক্তি। [end]
+
+-
+It isn't mine.
+[start] এটা আমার নয়। [end]
+
+-
+Got it!
+[start] বুঝেছেন [end]
+
+-
+People were angry.
+[start] লোকেরা রেগে ছিল। [end]
+
+-
+They're inside.
+[start] ওনারা ভেতরে আছেন। [end]
+
+-
+Do you understand now?
+[start] আপনি কি এখন বুঝতে পারছেন [end]
+
+-
+Tom doesn't want to hurt us.
+[start] টম আমাদের আঘাত দিতে চায় না। [end]
+
+-
+I want to talk to Tom first.
+[start] আমি সবার প্রথমে টমের সঙ্গে কথা বলতে চাই। [end]
+
+-
+Tom is still in bed.
+[start] টম এখনো গারদে। [end]
+
+-
+Where's the restroom?
+[start] বাথরুম কোথায় [end]
+
+-
+She explained the literal meaning of the phrase.
+[start] তিনি মহিলাটিকে গাড়িতে বসতে সাহায্য করেছিলেন। [end]
+
+-
+That is mine.
+[start] ওটা আমার। [end]
+
+-
+Thank you, Doctor.
+[start] তুমি কি ডাক্তার [end]
+
+-
+Tom told me to keep quiet.
+[start] টম আমাকে চুপ করতে বলল। [end]
+
+-
+I'm back.
+[start] আমি এসে গেছি। [end]
+
+-
+Were you sleeping?
+[start] আপনি কি ঈর্ষান্বিত না [end]
+
+-
+Have you ever done that?
+[start] আপনি কখনো ওটা করেছেন [end]
+
+-
+I would have liked to come with you, but I didn't have time.
+[start] আমি আপনার সাথে যেতে পারতাম কিন্তু আমার সময় ছিল না। [end]
+
+-
+Here is your key.
+[start] এই নাও তোমাদের চাবি। [end]
+
+-
+I was concerned.
+[start] আমি উদ্বিগ্ন ছিলাম। [end]
+
+-
+Don't open the door.
+[start] চ্যানেলটা পালটাবেন না। [end]
+
+-
+How many songs has Tom written?
+[start] টম কটার সময় ফোন করেছিল [end]
+
+-
+What was it you wanted to say to me?
+[start] আপনি আমার জন্য কত জন্য টমকে কীভাবে [end]
+
+-
+The future is uncertain.
+[start] ভবিষ্যৎ অনিশ্চিত। [end]
+
+-
+Do you speak English?
+[start] আপনি ইংরাজি বলতে পারেন [end]
+
+-
+What time does your plane depart?
+[start] আপনার প্লেনটা কটার সময় ছাড়বে [end]
+
+-
+We were waiting for you.
+[start] আমরা তোর জন্য অপেক্ষা করছিলাম। [end]
+
+-
+Tom owes Mary thirty dollars.
+[start] মেরির কাছে টমের ত্রিশ ডলার পায়। [end]
+
+-
+I accepted her invitation.
+[start] আমি ওনার আমন্ত্রণ গ্রহণ করলাম। [end]
+
+-
+I don't have anything to give you.
+[start] তোমাকে দেওয়ার মতো কিছু আমার নেই। [end]
+
+-
+I didn't want this to happen.
+[start] আমি চাইনি এটা ঘটুক। [end]
+
+-
+Welcome.
+[start] স্বাগতম। [end]
+
+-
+Is anybody here?
+[start] ওটা কি এখানে আছে [end]
+
+-
+How old is Tom?
+[start] টমের বয়স কত [end]
+
+-
+Who came?
+[start] কে এসেছিলো [end]
+
+-
+Tom told me his father was born in Boston.
+[start] টম আমাকে বলেছিল তার বাবার জন্ম বোস্টনে। [end]
+
+-
+How long did you stay?
+[start] তুই কতক্ষণ ছিলিস [end]
+
+-
+Tom is still at school.
+[start] টম এখনো গারদে। [end]
+
+-
+Leave town.
+[start] শহর ছাড়ো [end]
+
+-
+I don't want you to go.
+[start] আমি চাই না যে আপনি যান। [end]
+
+-
+You have the right to remain silent.
+[start] আপনার চুপ থাকার অধিকার আছে। [end]
+
+-
+Are you there?
+[start] আপনি কি ওখানে আছেন [end]
+
+-
+He's younger than me.
+[start] ও আমার থেকে ছোট। [end]
+
+-
+It's not mine.
+[start] এটা আমার নয়। [end]
+
+-
+The rules are simple.
+[start] নিয়মগুলো সহজ। [end]
+
+-
+Here's your key.
+[start] এই নিন আপনাদের চাবি। [end]
+
+-
+I'm going to a meeting.
+[start] আমি একটা সভায় যাচ্ছি। [end]
+
+-
+Tom and Mary both are artists.
+[start] টম আর মেরি শিল্পী। [end]
+
+-
+Is this your car?
+[start] এটা কি আপনার গাড়ি [end]
+
+-
+Tom can dance like a robot.
+[start] টম রোবটের মতো নাচতে পারে। [end]
+
+-
+She's my wife.
+[start] ও আমার স্ত্রী। [end]
+
+-
+Tom died during his stay in Australia.
+[start] টম অস্ট্রেলিয়ায় থাকার সময় মারা যান। [end]
+
+-
+Eat anything you like.
+[start] তোমার যা কিছু পছন্দ হয় তাই খাও। [end]
+
+-
+Tom is going to sing.
+[start] টম গান গাইতে চলেছে। [end]
+
+-
+We're different.
+[start] আমরা অন্যরকম। [end]
+
+-
+I was just reading the newspaper.
+[start] আমি একটা কমই সংবাদপত্র পড়ি। [end]
+
+-
+It seems interesting to me.
+[start] এটা আমার কাছে আকর্ষণীয় মনে হচ্ছে। [end]
+
+-
+Which leg hurts?
+[start] কোন পায়ে ব্যাথা করছে [end]
+
+-
+I'll return at 6:30.
+[start] আমি বিলটা মিটিয়ে দেব। [end]
+
+-
+I seem to always be busy nowadays.
+[start] আমি একটা আম কল করতে চাই। [end]
+
+-
+It's unfortunately true.
+[start] দুর্ভাগ্যবশতভাবে এটা সত্যি। [end]
+
+-
+How far is it to the airport?
+[start] এয়ারপোর্ট কত দুর এখান থেকে [end]
+
+-
+A cat can see in the dark.
+[start] বিড়াল অন্ধকারে দেখতে পায়। [end]
+
+-
+Football is my favorite game.
+[start] এটা আমার মাতৃভাষা। [end]
+
+-
+Will you show me your passport, please?
+[start] অনুগ্রহ করে আপনার পাসপোর্টটি দেখাবেন [end]
+
+-
+How can I get to the station?
+[start] আমি স্টেশনে কিভাবে যাব [end]
+
+-
+What is the meaning of that word?
+[start] ওই শব্দটার মানে কী [end]
+
+-
+I like movies.
+[start] আমি চলচ্চিত্র পছন্দ করি। [end]
+
+-
+You're tired, aren't you?
+[start] আপনি ক্লান্ত তাই না [end]
+
+-
+That's my wife.
+[start] ও আমার স্ত্রী। [end]
+
+-
+Let's make a movie.
+[start] চলুন একটা সিনেমা বানাই। [end]
+
+-
+You know very well what Tom wants.
+[start] আপনি টমকে তোমার মায়ের কথা বলোনি। [end]
+
+-
+Try hard.
+[start] আরও চেষ্টা করুন। [end]
+
+-
+Tom has been injured.
+[start] টম আহত হয়েছে। [end]
+
+-
+That's Tom.
+[start] ওটা টম। [end]
+
+-
+Tom screamed.
+[start] টম চিৎকার করলো। [end]
+
+-
+It isn't a virus.
+[start] এটা ভাইরাস না। [end]
+
+-
+I'm not a doctor.
+[start] আমি ডাক্তার নই। [end]
+
+-
+Get some sleep.
+[start] একটু ঘুমিয়ে নে। [end]
+
+-
+I want you to work with Tom.
+[start] আমি চাই আপনি টমের সঙ্গে কাজ করুন। [end]
+
+-
+I teach English.
+[start] আমি ঠান্ডা ছিলাম। [end]
+
+-
+Have you ever heard Tom speaking French?
+[start] তুমি কি কখনো টমকে ফরাসিতে কথা বলতে শুনেছো [end]
+
+-
+I'm not your friend.
+[start] আমি আপনার বন্ধু নই। [end]
+
+-
+They are doctors.
+[start] তারা ডাক্তার। [end]
+
+-
+Leave me.
+[start] আমাকে চেড়ে দে। [end]
+
+-
+There's no mistake.
+[start] কোনো ভুল নেই। [end]
+
+-
+I'm pretty sure Tom wasn't there.
+[start] আমি একদম নিশ্চিত টম সেখানে ছিল না। [end]
+
+-
+Wait outside.
+[start] বাইরে অপেক্ষা করুন। [end]
+
+-
+I don't know if I'll have time to do it.
+[start] আমি জানিনা এটা করার জন্য সময় পাব কি না। [end]
+
+-
+I don't want to go shopping today.
+[start] আমি আজকে কেনাকাটা করতে যেতে চাই না। [end]
+
+-
+A friend in need is a friend indeed.
+[start] একটি মিলিমিটার একটি মিটারের উৎস। [end]
+
+-
+Your time is up.
+[start] আপনার সময় শেষ। [end]
+
+-
+There are problems with the roof.
+[start] ছাদের সমস্যা আছে। [end]
+
+-
+Who ate?
+[start] কে খেয়েছিল [end]
+
+-
+It's difficult to find work.
+[start] কিছু যে ভুল আছে [end]
+
+-
+What'd I do?
+[start] আমি কি করলাম [end]
+
+-
+Don't talk.
+[start] কথা বলবেন না। [end]
+
+-
+I was late.
+[start] আমার টেনিস হয়েছিল। [end]
+
+-
+They're married.
+[start] তারা বিবাহিত। [end]
+
+-
+I feel good.
+[start] আমার ভাল লাগছে। [end]
+
+-
+I study abroad.
+[start] আমি ভিটামিন নিই। [end]
+
+-
+I am taller.
+[start] আমি বেশি লম্বা। [end]
+
+-
+Tom is afraid of Mary, isn't he?
+[start] টম মেরিকে ভয় পায় তাই না [end]
+
+-
+What is your name?
+[start] আপনার নাম কী [end]
+
+-
+I want to send Tom a letter.
+[start] আমি জানি না টম টমের সঙ্গে কথা বলতে চাই। [end]
+
+-
+Can you dance to this song?
+[start] আপনি কি এই গানে নাচতে পারবেন [end]
+
+-
+I'm needed here.
+[start] আমাকে এখানে দরকার। [end]
+
+-
+Got it?
+[start] বুঝেছেন [end]
+
+-
+Who'll pay for the loss?
+[start] রানী এলিজাবেথ ১৬০৩ [end]
+
+-
+Do you have this in any other colors?
+[start] আপনার কাছে এটা কি অন্য কোনো রঙের আছে [end]
+
+-
+Bauxite is the main source of aluminium.
+[start] অ্যালুমিনিয়ামের প্রধান উৎস হলো বক্সাইট। [end]
+
+-
+This medicine will cure your cold.
+[start] এই ওষুধটি আপনার ঠান্ডা নিরাময় করবে। [end]
+
+-
+I believe he is coming tomorrow.
+[start] আমার বিশ্বাস ও আগামীকাল আসবে। [end]
+
+-
+Everybody saw it.
+[start] সবাই সেটা দেখেছিলো। [end]
+
+-
+I shouldn't have asked you that.
+[start] আমার তোমায় এটা জিজ্ঞেস করা উচিত হয়নি। [end]
+
+-
+How much does that cost?
+[start] ওটার দাম কত [end]
+
+-
+Is the museum open today?
+[start] জাদুঘরটা কি আজ খোলা আছে [end]
+
+-
+I've made that same mistake.
+[start] আমি একই ভুল করেছি। [end]
+
+-
+The atomic number of hydrogen is 1.
+[start] ইউরেনিয়ামের পারমাণবিক সংখ্যা ৯২। [end]
+
+-
+Forget Tom.
+[start] টমকে ভুলে যান। [end]
+
+-
+Who cut the cake?
+[start] কেকটা কে কাটলো [end]
+
+-
+Would you like to eat something?
+[start] আপনি কি কিছু খাবেন [end]
+
+-
+Do you understand now?
+[start] আপনি কি এখন বুঝতে পারছেন [end]
+
+-
+My hobby is visiting old temples.
+[start] আমার বাবা খুব শুকিয়ে লাগছে। [end]
+
+-
+Tom began screaming.
+[start] টম চেঁচানো আরম্ভ করলো। [end]
+
+-
+Tom began to shout.
+[start] টম চেঁচাতে শুরু করলো। [end]
+
+-
+It may snow.
+[start] বৃষ্টি পরতে পারে। [end]
+
+-
+Don't you have a bike?
+[start] আপনার কি বাইক নেই [end]
+
+-
+What is that?
+[start] কী সাহস [end]
+
+-
+I'm not the owner.
+[start] আমি মালিক নই। [end]
+
+-
+That's rubbish.
+[start] ওসব ভুলভাল। [end]
+
+-
+I deserved that.
+[start] আমার সেটাই প্রাপ্য ছিলো। [end]
+
+-
+Don't wait.
+[start] অপেক্ষা করবেন না। [end]
+
+-
+No one says that anymore.
+[start] এখন আর কেউ ওসব বলে না। [end]
+
+-
+Patience is essential for a teacher.
+[start] একজন শিক্ষকের জন্য ধৈর্য্য অত্যাবশ্যক। [end]
+
+-
+Will you come tonight?
+[start] তুমি কি আজ রাতে আসবে [end]
+
+-
+Who helps your mother?
+[start] আপনার মাকে সাহায্য করে কে [end]
+
+-
+My mother can play golf very well.
+[start] আমার মা খুব ভাল গলফ খেলতে পারে। [end]
+
+-
+You don't understand.
+[start] তুমি বোঝ না। [end]
+
+-
+I want you to work with Tom.
+[start] আমি চাই আপনি টমের সঙ্গে কাজ করুন। [end]
+
+-
+The results were amazing.
+[start] আকাশটা অন্ধকার ছিলো। [end]
+
+-
+Find Tom.
+[start] টমকে খোঁজেন। [end]
+
+-
+Do you speak English?
+[start] আপনি ইংরাজি বলতে পারেন [end]
+
+-
+Maybe it'll snow.
+[start] টাকায় মন দিয়ে শুনবেন। [end]
+
+-
+I'm now able to do that.
+[start] আমি এখন ওটা করতে পারবো। [end]
+
+-
+You may use my new car.
+[start] আপনি আমার নতুন গাড়িটা ব্যবহার করতে পারেন। [end]
+
+-
+They yelled.
+[start] ওনারা চেঁচালেন। [end]
+
+-
+My wrist hurts.
+[start] আমার হাঁটু ব্যাথা করছে। [end]
+
